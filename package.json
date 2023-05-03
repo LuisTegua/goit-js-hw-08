@@ -2,10 +2,10 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://luistegua.github.io/goit-js-hw-08",
+  "homepage": "https://luistegua.github.io/goit-js-hw-08/",
   "scripts": {
     "start": "parcel src/index.html",
-    "build": "parcel build src/*.js --public-url /goit-js-hw-08/"
+    "build": "parcel build src/*.html --public-url /goit-js-hw-08/"
   },
   "repository": {
     "type": "git",
