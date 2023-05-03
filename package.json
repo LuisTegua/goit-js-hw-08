@@ -5,7 +5,7 @@
   "homepage": "https://luistegua.github.io/goit-js-hw-08",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.js --public-url /goit-js-hw-08/"
+    "build": "parcel build src/*.js --public-url //"
   },
   "repository": {
     "type": "git",
